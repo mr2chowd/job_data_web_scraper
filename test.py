@@ -5,3 +5,5 @@ is_visible_minority = data.isDsblInd()
 visible_minorities = data.getTheVisibleMinorities()
 visible_minority_comment = data.getVisminDetail()
 is_disable = data.isDsblInd()
+if is_aborginal : 
+  print("only variable si_aborginal is data.isDsblInd()")
